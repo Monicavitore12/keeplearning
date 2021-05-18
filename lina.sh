@@ -1,2 +1,2 @@
 hostname
-cal 2023
+lscpu
