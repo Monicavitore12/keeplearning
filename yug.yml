@@ -1,0 +1,1 @@
+ansible all -m user -a 'name=mahakal state=present'
